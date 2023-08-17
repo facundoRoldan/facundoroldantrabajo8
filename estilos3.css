@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(15, 201, 201);
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+footer{
+    background-color: blueviolet;
+margin: 10px;
+border: 5px;
+border-style: groove;
+border-color: rgb(253, 255, 240);
+width: 100%;}
+
+header {
+    background-color: blueviolet;
+    margin: 10px;
+    border: 5px;
+    border-style: groove;
+    border-color: aliceblue;
+    width: 100%;
+}
+header:hover{
+    background-color: aqua;
+}

@@ -1,0 +1,15 @@
+body{background-color: black;}
+
+body{
+    color:aquamarine;
+}
+
+tr span{
+    font-family: cursive;
+    color: rgb(253, 5, 5);
+}
+
+.clase1 {color: rgb(0, 255, 64);
+font-size: 20px;
+font-weight: 900;
+}
